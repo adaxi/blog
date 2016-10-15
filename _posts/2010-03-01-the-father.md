@@ -14,8 +14,6 @@ wordpress_id: 19
 wordpress_url: http://adaxisoft.be/blog/?p=19
 date: '2010-03-01 22:57:59 +0000'
 date_gmt: '2010-03-01 21:57:59 +0000'
-categories:
-- Finds
 tags:
 - video
 comments: []

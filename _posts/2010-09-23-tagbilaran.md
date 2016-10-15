@@ -14,8 +14,6 @@ wordpress_id: 52
 wordpress_url: http://adaxisoft.be/blog/?p=52
 date: '2010-09-23 02:53:03 +0000'
 date_gmt: '2010-09-23 01:53:03 +0000'
-categories:
-- Uncategorized
 tags: []
 comments: []
 ---
