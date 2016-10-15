@@ -2,7 +2,7 @@
 title: Home made code!
 email: dev@adaxisoft.be
 description: "I'm an all-round developer, and this is my blog!"
-baseurl: ""
+baseurl: "/blog"
 url: ""
 
 twitter_username: adaxi
