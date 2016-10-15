@@ -1,0 +1,18 @@
+# Site settings
+title: Home made code!
+email: dev@adaxisoft.be
+description: "I'm an all-round developer, and this is my blog!"
+baseurl: "/blog"
+url: ""
+
+twitter_username: adaxi
+github_username: adaxi
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+kramdown:
+  input: GFM
+
