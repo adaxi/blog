@@ -30,7 +30,7 @@ cd ..
 rm -rf build-area/**/* || exit 0
 
 bundle exec jekyll build -d ./build-area
-bundle exec htmlproofer ./build-area --disable-external --external-only
+bundle exec htmlproofer ./build-area --disable-external --external_only
 
 cd ./build-area
 
