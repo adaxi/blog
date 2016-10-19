@@ -9,6 +9,7 @@ twitter_username: adaxi
 github_username: adaxi
 
 # Build settings
+exclude: [vendor, Gemfile, _build.sh, Vagrantfile, .travis.yml, deploy.key.enc]
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
