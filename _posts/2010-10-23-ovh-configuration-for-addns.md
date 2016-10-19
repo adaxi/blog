@@ -18,7 +18,7 @@ tags: []
 comments: []
 ---
 
-DynHOST from OVH are very useful if you have a dynamic IP and want to have a DNS entry always pointing at it. I use a little script called ```addns.pl``` to update the DNS record with my home server external IP. It is a <a href="http://www.funtaff.com/software/addns.pl/">perl script</a> and a configuration file. Once you have installed the script on your machine and have given it permission to execute, you need to create a configuration file. The configuration file must be placed at ```/etc/addns.conf```. The configuration file for addns should be formatted like so:
+DynHOST from OVH are very useful if you have a dynamic IP and want to have a DNS entry always pointing at it. I use a little script called ```addns.pl``` to update the DNS record with my home server external IP. It is a <a href="https://web.archive.org/web/20150913205551/http://www.funtaff.com/software/addns.pl/">perl script</a> and a configuration file. Once you have installed the script on your machine and have given it permission to execute, you need to create a configuration file. The configuration file must be placed at ```/etc/addns.conf```. The configuration file for addns should be formatted like so:
 
 ```
 {

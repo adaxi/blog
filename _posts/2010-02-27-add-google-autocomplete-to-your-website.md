@@ -81,5 +81,5 @@ Finally, you have to add the following code after your form declaration :
 </script>
 ```
 
-This piece of code will initialize the autocomplete plug-in, you can specify the plug-in options here. You must be very careful when coping this last bit of code: jQuery('#s') means that we are selecting all the tags that have and id value of s, which in this case is the id of the search box. To understand the jQuery selector mechanism please refer to it's <a href="http://wiki.github.com/jeresig/sizzle/" target="_blank">documentation</a> or a reference book.
+This piece of code will initialize the autocomplete plug-in, you can specify the plug-in options here. You must be very careful when coping this last bit of code: jQuery('#s') means that we are selecting all the tags that have and id value of s, which in this case is the id of the search box. To understand the jQuery selector mechanism please refer to it's <a href="http://api.jquery.com/Types/#Selector" target="_blank">documentation</a> or a reference book.
 The suggestion box should be working by now! 
