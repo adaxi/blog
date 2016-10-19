@@ -18,7 +18,7 @@ tags: []
 comments: []
 ---
 
-As I mentioned in my previous article have been using addns to update my DynHOST records at OVH. In the mean time I have created a Debian package to ease the installation procedure. Add the repository. It should work for all Debian based distributions (nevermind the wheezy reference).
+As I mentioned in my previous article have been using addns to update my DynHOST records at OVH. I have created a Debian package to ease the installation procedure. Add the repository. It should work for all Debian based distributions (nevermind the wheezy reference).
 
 ```sh
 echo "deb http://apt.adaxisoft.be/debian wheezy main" \ 
