@@ -50,7 +50,7 @@ if [ -z `git diff --exit-code` ]; then
 fi
 
 git add .
-git commit -m "Deploy to branch ${TRAVIS_BRANCH}: ${TRAVIS_COMMIT}"
+git commit -m "Deploy to ${TARGET_BRANCH} branch: ${TRAVIS_COMMIT}"
 
 # Now that we're all set up, we can push.
 git push $REPOSITORY $TARGET_BRANCH
