@@ -4,8 +4,8 @@ adaxisoft.be blog
 Personal blog.
 
 Available at:
-    * https://adaxisoft.be/blog
-    * https://adaxi.github.io/blog
+ * https://adaxisoft.be/blog
+ * https://adaxi.github.io/blog
 
 Write a new post
 ----------------
