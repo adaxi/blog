@@ -55,7 +55,7 @@ First we need to add some Javascript code to the head of the html document. You 
 </script>
 ```
 
-Then you have to declare you search form. This is the code that I use to create my search form.
+Declare you search form. This is the code that I use to create my search form.
 
 ```html
 <form method="get" action="http://www.google.com/search">
