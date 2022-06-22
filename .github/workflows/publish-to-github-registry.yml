@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: adaxisoft.be-blog 
+  IMAGE_NAME: adaxisoft-blog 
 
 jobs:
   build-and-push-image:
